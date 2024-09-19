@@ -23,4 +23,4 @@ This site demonstrates a few GitHub Flavored Markdown (GFM) features:
 
 ### Code Blocks
 ```javascript
-console.log("Hello,Indu's world!");
+console.log("Hello,Indu world!");
