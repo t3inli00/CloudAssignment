@@ -1,9 +1,9 @@
 # t3inli00.github.io
-# Welcome to My GitHub Page (Indu)
+# Welcome to My static web Page 
 
 ## Features of this Static Website for my cloud Assignment- Bundle Question E
 
-This site demonstrates a few GitHub Flavored Markdown (GFM) features My Cloud Learning Diary Assignment
+This site demonstrates a few GitHub Flavored Markdown (GFM) features for My Cloud Learning Diary Assignment
 
 ### Project Design
 - Task 1: Requirment Gathering
@@ -28,8 +28,8 @@ This site demonstrates a few GitHub Flavored Markdown (GFM) features My Cloud Le
 
 | Name         | Role        | Location   |
 |--------------|-------------|------------|
-| Indu         | Developer   | SL         |
-| Madhura      | Designer    | SL         |
+| Tom          | Developer   | SL         |
+| Bob          | Designer    | SL         |
 
 ### Code Blocks
 ```javascript
